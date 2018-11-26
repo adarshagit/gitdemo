@@ -15,6 +15,10 @@ public class App
 			System.out.println("welcome Ram bhaiaya ti saanapur");
 		}
 	}
+	
+	public void mode(){
+		System.out.println("adding on more method to project");
+	}
     public static void main( String[] args )
     {
         System.out.println( "First git demo" );
