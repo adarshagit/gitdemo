@@ -12,7 +12,7 @@ public class App
 		if(name.equals("Adarsha")) {
 			System.out.println("welcome Adarsha");
 		}else {
-			System.out.println("welcome Ram bhaiaya");
+			System.out.println("welcome Ram bhaiaya ti saanapur");
 		}
 	}
     public static void main( String[] args )
