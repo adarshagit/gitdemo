@@ -12,11 +12,11 @@ public class App
 		if(name.equals(Constant.DATA_TYPE)) {
 			System.out.println("welcome Adarsha");
 		}else {
-			System.out.println("welcome Ram bhaiaya ti saanapur");
+			System.out.println("welcome Ram bhaiaya ji saanapur");
 		}
 	}
     public static void main( String[] args )
     {
-        System.out.println( "First git demo" );
+        System.out.println( "First git demo program on git" );
     }
 }
